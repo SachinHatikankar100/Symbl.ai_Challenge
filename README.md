@@ -1,7 +1,7 @@
 # Symbl.ai_Challenge
 Symbl.ai sentiment challenge participation
 
-Follow the steps below to work on Symbl.ai senitment analysis challenge
+Follow the steps below to work on Symbl.ai senitment analysis challenge (Steps taken from https://symbl.ai/blog/win-a-limited-valentines-star-wars-pop-funko-generate-sentiments-from-your-favorite-love-song-in-5-mins/)
 
 Step 1 – Sign in to your Symbl.ai account OR sign up HERE (it’s free)
 
